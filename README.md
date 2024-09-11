@@ -1,6 +1,6 @@
 # Hello, I'm Nayana! 👨‍💻
 
-I'm a **Computer Science Engineering student** with a passion for **Software Development** and an interest in building projects that solve real-world problems. My focus areas include **Web Development**, **Full Stack Development**, and **Virtual Reality**.
+I'm a **Computer Science Engineering student** with a passion for **Software Development** and an interest in building projects that solve real-world problems. My focus areas include **Web Development**, **Full Stack Development**.
 
 ---
 
