@@ -6,10 +6,9 @@ I'm a **Computer Science Engineering student** with a passion for **Software Dev
 
 ## 🛠 Skills & Tools
 
-- **Languages**: HTML/CSS,Java,Python,JavaScript,
-- **Frameworks**: Django,Spring Boot
+- **Languages**: HTML/CSS,Java,Python.
 - **Databases**: MySQL
-- **Other Tools**: Git, Docker, VSCode
+- **Other Tools**: Git.
 
 ---
 
